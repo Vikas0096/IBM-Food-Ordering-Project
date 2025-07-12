@@ -39,9 +39,10 @@
   .header-contents{
     max-width: 65%;
   }
-  .header-contents p{
+  .header-contents h2{
     display: none;
   }
+  
   .header-contents butoon{
     padding: 2vw 4vw;
   }
